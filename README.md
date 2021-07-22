@@ -4,7 +4,7 @@
 
 
 ## Usage / Directions
-* Click the link to find the Employee 
+* Click the link to find the Employee https://joemc9011.github.io/employeesearchengine/
 --
 
 
