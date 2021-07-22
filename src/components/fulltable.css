@@ -1,0 +1,10 @@
+.tablebody {
+  margin: auto;
+  width: 90%;
+}
+
+.tablerowbody {
+    background-color: teal;
+    color: white;
+    text-align: center;
+}
