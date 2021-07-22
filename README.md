@@ -5,16 +5,9 @@
 
 ## Usage / Directions
 * Click the link to find the Employee https://joemc9011.github.io/employeesearchengine/
---
 
 
-## Home Page 
-* ![]( )
-
-<br>
-
-
-## Tools Used / Dependancies
+## Tech Used
 --
 * React
 * API
