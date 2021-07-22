@@ -1,6 +1,6 @@
 import React from "react";
-
-function SearchForm(props) {
+import "./search.css"
+function Searchform(props) {
   return (
     <form>
       <div className="form-group">
@@ -23,6 +23,6 @@ function SearchForm(props) {
   );
 }
 
-export default SearchForm;
+export default Searchform;
 
 // lifted from movie activity and tailored for employee search

@@ -1,6 +1,6 @@
 import React from "react";
-import EmployeeTable from "./components/EmployeeTable"
-import Search from "./components/Search";
+import EmployeeTable from "./components/EmployeeTable";
+import Searchform from "./components/Searchform";
 
 import API from "./utils/API";
 import "./App.css"
@@ -58,7 +58,8 @@ class App extends React.Component {
                 <header>
                   <h1 id='title'>Employee Search Engine</h1>
                 </header>
-                <Search
+                <Searchform
+                
                     search={this.state.search}
                     handleInputChange={this.handleInputChange}
                     handleFormSubmit={this.handleFormSubmit}
